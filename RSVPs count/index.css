@@ -1,0 +1,66 @@
+body {
+    background-image: url("baloons.jpg");
+    background-size: cover;
+    font-family: 'Pangolin', cursive, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.headings {
+    background-color: rgba(233, 190, 234, 0.8);
+    opacity: 0.7;
+    max-width: 80%;
+    margin: auto;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgba(103, 167, 174, 0.8);
+    font-family: 'Pangolin', cursive, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    color: rgba(103, 167, 174, 0.8);
+    font-family: 'Pangolin', cursive, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid lightcyan;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgba(103, 167, 174, 0.8);
+    font-family: 'Pangolin', cursive, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: rgba(238, 244, 107, 0.8);
+}
+
+#save-btn {
+    background: rgba(189, 149, 245, 0.8);
+}
+
+#save-el {
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Pangolin', cursive, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(103, 167, 174, 0.8);
+}
+
